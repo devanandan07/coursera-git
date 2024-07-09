@@ -33,4 +33,4 @@ where:
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/calculating-simple-interest.git
+git clone [https://github.com/your-username/calculating-simple-interest.git](https://github.com/devanandan07/coursera-git.git)
